@@ -2,20 +2,20 @@ import React from "react"
 
 function PictureSlide() {
   const pictures = [
-    "/assets/pics/picslide-1.jpg",
-    "/assets/pics/picslide-2.jpg",
-    "/assets/pics/picslide-3.jpg",
-    "/assets/pics/picslide-4.jpg",
-    "/assets/pics/picslide-5.jpg",
-    "/assets/pics/picslide-6.jpg",
-    "/assets/pics/picslide-7.jpg",
-    "/assets/pics/picslide-8.jpg",
-    "/assets/pics/picslide-9.jpg",
-    "/assets/pics/picslide-10.jpg",
-    "/assets/pics/picslide-11.jpg",
-    "/assets/pics/picslide-12.jpg",
-    "/assets/pics/picslide-13.jpg",
-    "/assets/pics/picslide-14.jpg",
+    "/acronym-website/assets/pics/picslide-1.jpg",
+    "/acronym-website/assets/pics/picslide-2.jpg",
+    "/acronym-website/assets/pics/picslide-3.jpg",
+    "/acronym-website/assets/pics/picslide-4.jpg",
+    "/acronym-website/assets/pics/picslide-5.jpg",
+    "/acronym-website/assets/pics/picslide-6.jpg",
+    "/acronym-website/assets/pics/picslide-7.jpg",
+    "/acronym-website/assets/pics/picslide-8.jpg",
+    "/acronym-website/assets/pics/picslide-9.jpg",
+    "/acronym-website/assets/pics/picslide-10.jpg",
+    "/acronym-website/assets/pics/picslide-11.jpg",
+    "/acronym-website/assets/pics/picslide-12.jpg",
+    "/acronym-website/assets/pics/picslide-13.jpg",
+    "/acronym-website/assets/pics/picslide-14.jpg",
   ]
   return (
     <>

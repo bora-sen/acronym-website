@@ -66,7 +66,7 @@ function Featured() {
                 muted
                 loop
               >
-                <source src="/assets/video/bg-video-2.mp4" />
+                <source src="/acronym-website/assets/video/bg-video-2.mp4" />
               </video>
             </div>
           </div>

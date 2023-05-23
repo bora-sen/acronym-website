@@ -16,7 +16,7 @@ function Jackets() {
             </p>
           </div>
           <div className="w-auto overflow-hidden">
-            <img src="/assets/pics/front-jacket-1.jpg" className="w-full h-full object-center object-cover" alt="" />
+            <img src="/acronym-website/assets/pics/front-jacket-1.jpg" className="w-full h-full object-center object-cover" alt="" />
           </div>
         </div>
         <div className="flex flex-col-reverse md:flex-row-reverse gap-4 max-w-[75rem] mx-auto p-4">
@@ -30,7 +30,7 @@ function Jackets() {
             </p>
           </div>
           <div className="w-auto overflow-hidden bg-red-400">
-            <img src="/assets/pics/left-quarter-1.jpg" className="w-full h-full object-center object-cover" alt="" />
+            <img src="/acronym-website/assets/pics/left-quarter-1.jpg" className="w-full h-full object-center object-cover" alt="" />
           </div>
         </div>
         <div className="flex md:flex-row flex-col-reverse max-w-[75rem] gap-4 mx-auto p-4">
@@ -44,7 +44,7 @@ function Jackets() {
             </p>
           </div>
           <div className="w-auto overflow-hidden bg-red-400">
-            <img src="/assets/pics/front-jacket-2.jpg" className="w-full h-full object-center object-cover" alt="" />
+            <img src="/acronym-website/assets/pics/front-jacket-2.jpg" className="w-full h-full object-center object-cover" alt="" />
           </div>
         </div>
       </div>

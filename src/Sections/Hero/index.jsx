@@ -17,7 +17,7 @@ function Hero() {
     <section className="w-full h-screen">
       <div className="w-full h-full absolute -z-10">
         <video autoPlay muted loop className="w-full h-screen object-cover object-center">
-          <source src="/assets/video/hero-bg.mp4" />
+          <source src="/acronym-website/assets/video/hero-bg.mp4" />
         </video>
       </div>
       <div className="w-full h-full flex items-center justify-center">
