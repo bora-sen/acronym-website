@@ -1,0 +1,5 @@
+export { default as Featured } from "./Featured"
+export { default as Hero } from "./Hero"
+export { default as Jackets } from "./Jackets"
+export { default as PictureSlide } from "./PictureSlide"
+export { default as TextBand } from "./TextBand"
